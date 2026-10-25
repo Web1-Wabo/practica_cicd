@@ -38,5 +38,5 @@ jobs:
           push: true
           tags: |
             alvarosanchezwebi/practica_cicd:latest
-            ghcr.io/Web1-Wabo/practica_cicd:latest
+            ghcr.io/web1-wabo/practica_cicd:latest
             
